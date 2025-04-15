@@ -130,13 +130,13 @@ button {
     transition: 0.5s;
   }.btn{
     display: inline-block;
-    padding: 1rem 2.8rem;
+    padding: 1rem 1rem;
     background-color: black;
     border-radius: 4rem;
     font-size: 10px;
     color: #5eaefa;
-    letter-spacing: 0.3rem;
-    font-weight: 600;
+    letter-spacing: 0;
+    font-weight: 400;
     border: 2px solid #39e7d9;
     transition: 0.3s ease;
     cursor: pointer;
